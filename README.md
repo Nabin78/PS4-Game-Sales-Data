@@ -25,8 +25,7 @@ This report examines PS4 game sales across North America, Europe, Japan, and the
    - Conducted descriptive statistics (mean, median, total sales).
    - Identified top-selling games, genres, and publishers.
 4. Power BI Dashboard Development
-   - Created data relationships and used DAX for dynamic calculations.
-   - Designed visualizations: bar charts, pie charts, line graphs, heatmaps.
+   - Designed visualizations: bar charts, pie charts, line graphs.
    - Developed region-specific and comparison pages
 5. KPI & Insight Generation
    - Defined key metrics: total sales, market share, top genres.
